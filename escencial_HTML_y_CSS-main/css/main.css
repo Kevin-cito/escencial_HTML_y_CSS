@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0%;
+}
+
+.hero{
+
+width: 100vw;
+height: 21.855rem;
+background-color: brown;
+background-image: url(../assest/img/patron.png);
+}
+
+.titulo_principal{
+  padding-top: 64px;
+}
+.parrafo1{
+  padding-top: 16px;
+}
